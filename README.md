@@ -1,2 +1,2 @@
-# fantasyfootball2016
-How ESPN values players relative to the rest of the "experts"
+# Fantasy Baseball 2017
+Havent decided exactly what I'm doing with this yet
